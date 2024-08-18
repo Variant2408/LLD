@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ChainResponsibilityPrinciple" />
+            <option value="$PROJECT_DIR$/ChainResponsibilityPrinciple/AtmDispenser" />
+            <option value="$PROJECT_DIR$/ChainResponsibilityPrinciple/FileSearch" />
+            <option value="$PROJECT_DIR$/MediatorDesignPattern" />
+            <option value="$PROJECT_DIR$/MediatorDesignPattern/AirTrafficControl" />
+            <option value="$PROJECT_DIR$/MediatorDesignPattern/BiddingApplication" />
+            <option value="$PROJECT_DIR$/MediatorDesignPattern/ChatApplication" />
+            <option value="$PROJECT_DIR$/MementoDesignPattern" />
+            <option value="$PROJECT_DIR$/ObserverDesignPattern" />
+            <option value="$PROJECT_DIR$/ObserverDesignPattern/SocialMedia" />
+            <option value="$PROJECT_DIR$/ObserverDesignPattern/StockMarket" />
+            <option value="$PROJECT_DIR$/ObserverDesignPattern/weatherStation" />
+            <option value="$PROJECT_DIR$/StateDesignPattern" />
+            <option value="$PROJECT_DIR$/StateDesignPattern/FoodOrder" />
+            <option value="$PROJECT_DIR$/StateDesignPattern/FoodOrderState" />
+            <option value="$PROJECT_DIR$/StateDesignPattern/TrafficLight" />
+            <option value="$PROJECT_DIR$/StructuralDesignPattern" />
+            <option value="$PROJECT_DIR$/StructuralDesignPattern/CompositeDesignPattern" />
+            <option value="$PROJECT_DIR$/StructuralDesignPattern/CompositeDesignPattern/FileSystem" />
+            <option value="$PROJECT_DIR$/StructuralDesignPattern/CompositeDesignPattern/MenuSystem" />
+            <option value="$PROJECT_DIR$/StructuralDesignPattern/DecoratorDesignPattern" />
+            <option value="$PROJECT_DIR$/StructuralDesignPattern/DecoratorDesignPattern/CoffeeShop" />
+            <option value="$PROJECT_DIR$/StructuralDesignPattern/DecoratorDesignPattern/PizzaShop" />
+            <option value="$PROJECT_DIR$/StructuralDesignPattern/DecoratorDesignPattern/TextFormat" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
